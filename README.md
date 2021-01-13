@@ -1,2 +1,2 @@
-# Optical-Neural-Networks
-Optical-Neural-Networks
+# optical-neural-networks
+optical-neural-networks

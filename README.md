@@ -1,2 +1,2 @@
-# optical-neural-networks
-Repository of optical neural networks codes.
+# optical-neural-network
+Repository of optical neural network codes.

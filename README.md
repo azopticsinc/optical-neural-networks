@@ -1,2 +1,2 @@
-# optical-neural-network
+# optical-neural-networks
 MATLAB codes for designing optical neural networks.

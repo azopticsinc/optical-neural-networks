@@ -1,2 +1,2 @@
 # optical-neural-network
-Repository of optical neural network codes.
+MATLAB codes for designing optical neural networks.
